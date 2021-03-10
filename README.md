@@ -1,2 +1,2 @@
 # cubos-academy-psel-isa
-exercícios resolvidos no hackerrank
+Aqui estão algumas das functions soluctions de exercicios do PSEL Sucesso Compartilhado 01/2021 que estão no RackerRank.
